@@ -1,0 +1,2 @@
+question 2 countries of flags;  https://jsfiddle.net/uojnaqc0/3/
+question 3 countries of names,region,subregion and population ;https://jsfiddle.net/wb4e67d3/
